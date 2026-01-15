@@ -25,7 +25,7 @@ export function HeroSection() {
       {/* Circle Left */}
       <div
         className="
-      absolute bottom-0 left-0
+      absolute bottom-0 right-0
       w-[160px] h-[160px]
       md:w-[220px] md:h-[220px]
       lg:w-[260px] lg:h-[260px]
